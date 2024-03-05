@@ -24,7 +24,7 @@
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://yang-1998.github.io/post/images/portfolio-example.png&#34;&#xA;         alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;&#xA;            &lt;p&gt;Example of Portfolio page&lt;/p&gt;&#xA;        &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
-      <title>Sample project</title>
+      <title>项目</title>
       <link>https://yang-1998.github.io/portfolio/sample-project/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       <guid>https://yang-1998.github.io/portfolio/sample-project/</guid>
@@ -36,13 +36,6 @@
       <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
       <guid>https://yang-1998.github.io/post/archetypes/</guid>
       <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Manage Your Menu</title>
-      <link>https://yang-1998.github.io/post/manage-your-menu/</link>
-      <pubDate>Thu, 02 May 2019 19:06:29 +0200</pubDate>
-      <guid>https://yang-1998.github.io/post/manage-your-menu/</guid>
-      <description>&lt;p&gt;Menu in the sidebar can be defined within the &lt;code&gt;config.toml&lt;/code&gt; or directly in the files.&#xA;I prefer the config file approach, as this menu is pretty simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shortcodes</title>
