@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on 我的Hugo站点</title>
-    <link>https://xiaoyang-1998.github.io/techs/</link>
+    <link>https://yzm123-yzm.github.io/techs/</link>
     <description>Recent content in Techs on 我的Hugo站点</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© MC</copyright>
-    <atom:link href="https://xiaoyang-1998.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yzm123-yzm.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
